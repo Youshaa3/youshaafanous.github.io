@@ -1,11 +1,11 @@
 {
-    "name": "youshaa_fanous_portfolio",
-    "short_name": "youshaa_fanous_portfolio",
+    "name": "Youshaa Fanous Portfolio",
+    "short_name": "Youshaa Portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
-    "description": "A new Flutter project.",
+    "description": "Welcome to Youshaa Fanous' professional portfolio. Explore my work in web and mobile development.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
